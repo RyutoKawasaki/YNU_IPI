@@ -74,7 +74,7 @@ int main(void) {
   }
 
   // 応用問題2
-   int n;
+  int n;
 
   printf("西暦年数nを入力してください\n");
   scanf("%d", &n);
